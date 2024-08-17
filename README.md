@@ -1,4 +1,4 @@
-Economist interested in DSGE modeling and macroeconometrics.
+
 
 <!---
 Antoine-Chantal/Antoine-Chantal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
